@@ -1,67 +1,52 @@
+<div align="center">
+
 # Hi, I'm Lohanne 👋
 
-**Computer Engineering @ IADE | Full-Stack Developer | JavaScript, React | Python, Java, SQL**
+**Full-Stack Developer | Computer Engineering @ IADE**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
 ---
 
-I believe that writing good code is only half the job; the other half is knowing how to explain it.
+## About
 
-I'm a final-year Computer Engineering student at IADE, and throughout my journey, I've realized that my greatest strength goes beyond technology: it's **communication**. I have the ability to translate complex business requirements into clear language, bridging the gap between technical teams and end clients — a skill I consider essential in developing consulting solutions.
+I believe good code is only half the job — the other half is explaining it clearly.
 
-I position myself as a **Full-Stack Developer** because I'm motivated by understanding the complete software lifecycle. On the front-end, I focus on creating dynamic interfaces with **React** and **JavaScript**. On the back-end, my technical foundation lies in **Python**, **Java**, and **SQL databases**, always seeking functional and optimized architectures.
+I'm a final-year Computer Engineering student focused on bridging technical solutions with business needs. I code full-stack applications and love the complete software lifecycle.
 
-Currently, I'm looking for my first opportunity in the IT market as a **Junior Full-Stack Developer**. My goal is to apply this technical foundation and synthesis capability in building robust web solutions, ensuring clear, autonomous, and efficient delivery across all project phases.
-
----
-
-### Tech Stack
-
-**Front-end**
-- JavaScript (ES6+)
-- React
-- HTML5 / CSS3
-
-**Back-end**
-- Python
-- Java
-- Node.js / Express
-
-**Database**
-- SQL (PostgreSQL, MySQL, SQLite)
-
-**Tools & Others**
-- Git & GitHub
-- Firebase
-- REST APIs
-- Jetpack Compose (Android)
+**Currently seeking:** Junior Full-Stack Developer role
 
 ---
 
-### Academic Projects
+## Tech Stack
 
-Explore my academic work from IADE, including:
-- **Web Applications** with React, Node.js, and Firebase
-- **Database Design** and SQL optimization projects
-- **AI Search Algorithms** (informed and uninformed search)
-- **Mobile Development** with Kotlin and Jetpack Compose
-- **Algorithm Design & Data Structures** implementations
-
----
-
-### GitHub Stats
-
-![Lohanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lohanneguedes&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lohanneguedes&layout=compact&theme=radical)](https://github.com/lohanneguedes)
+| Front-end | Back-end | Database |
+|-----------|----------|----------|
+| JavaScript (ES6+) | Python | SQL |
+| React | Java | Firebase |
+| HTML5 / CSS3 | Node.js / Express | MongoDB |
 
 ---
 
-### Let's Connect
+## Featured Projects
 
-I'm always open to discussing technology, collaboration opportunities, or just chatting about code!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohanneguedes)
+- **Web Apps** with React, Node.js, and Firebase
+- **Database Design** and SQL optimization
+- **AI Algorithms** and data structures
+- **Mobile Development** with Kotlin
 
 ---
 
-*Final-year Computer Engineering student at IADE, Universidade Europeia | Seeking Junior Full-Stack Developer opportunities*
+<p>
+  <a href="https://github.com/lohanneguedes?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20My%20Repos-181717?style=for-the-badge&logo=github" alt="GitHub Repos" />
+  </a>
+</p>
+
+</div>
