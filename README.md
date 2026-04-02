@@ -1,47 +1,67 @@
-# Hi there, I'm Lohanne 👋
+# Hi, I'm Lohanne 👋
 
-### About Me
+**Computer Engineering @ IADE | Full-Stack Developer | JavaScript, React | Python, Java, SQL**
 
-Computer Science student at IADE - Universidade Europeia, passionate about technology and software development.
+---
+
+I believe that writing good code is only half the job; the other half is knowing how to explain it.
+
+I'm a final-year Computer Engineering student at IADE, and throughout my journey, I've realized that my greatest strength goes beyond technology: it's **communication**. I have the ability to translate complex business requirements into clear language, bridging the gap between technical teams and end clients — a skill I consider essential in developing consulting solutions.
+
+I position myself as a **Full-Stack Developer** because I'm motivated by understanding the complete software lifecycle. On the front-end, I focus on creating dynamic interfaces with **React** and **JavaScript**. On the back-end, my technical foundation lies in **Python**, **Java**, and **SQL databases**, always seeking functional and optimized architectures.
+
+Currently, I'm looking for my first opportunity in the IT market as a **Junior Full-Stack Developer**. My goal is to apply this technical foundation and synthesis capability in building robust web solutions, ensuring clear, autonomous, and efficient delivery across all project phases.
+
+---
 
 ### Tech Stack
 
-**Languages**
-- Java
+**Front-end**
+- JavaScript (ES6+)
+- React
+- HTML5 / CSS3
+
+**Back-end**
 - Python
-- JavaScript / Node.js
-- SQL
+- Java
+- Node.js / Express
 
-**Frameworks & Tools**
-- Jetpack Compose (Android)
-- Express.js
-- Firebase
+**Database**
+- SQL (PostgreSQL, MySQL, SQLite)
+
+**Tools & Others**
 - Git & GitHub
+- Firebase
+- REST APIs
+- Jetpack Compose (Android)
 
-**Areas of Interest**
-- Mobile Development
-- Web Development
-- Artificial Intelligence
-- Database Design
-- Algorithm Design & Data Structures
+---
 
 ### Academic Projects
 
-Here you'll find my academic work from IADE, including:
-- Algorithm and Data Structures implementations
-- Database design and SQL projects
-- AI search algorithms (informed and uninformed)
-- Web applications with Node.js and Firebase
-- Mobile applications with Kotlin and Jetpack Compose
+Explore my academic work from IADE, including:
+- **Web Applications** with React, Node.js, and Firebase
+- **Database Design** and SQL optimization projects
+- **AI Search Algorithms** (informed and uninformed search)
+- **Mobile Development** with Kotlin and Jetpack Compose
+- **Algorithm Design & Data Structures** implementations
+
+---
 
 ### GitHub Stats
 
 ![Lohanne's GitHub stats](https://github-readme-stats.vercel.app/api?username=lohanneguedes&show_icons=true&theme=radical)
 
-### Connect with Me
-
-Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lohanneguedes&layout=compact&theme=radical)](https://github.com/lohanneguedes)
 
 ---
 
-*Currently learning and growing as a developer at IADE, Universidade Europeia*
+### Let's Connect
+
+I'm always open to discussing technology, collaboration opportunities, or just chatting about code!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohanneguedes)
+
+---
+
+*Final-year Computer Engineering student at IADE, Universidade Europeia | Seeking Junior Full-Stack Developer opportunities*
